@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Caleb Etyang 
-- 👀 I’m interested in Cyber security 
-- 🌱 I’m currently learning networking 
-- 💞️ I’m looking to collaborate on pentration testing  fullstack react develelopment 
-- 📫 How to reach me facebook at caleb etyang
+- 👀 I’m interested in  Opensource Java Web Developmnt and Other Stuff
+- 🌱 I’m currently learning Networking 
+- 💞️ I’m looking to collaborate on Website Appllication Penetration  Testing  and Restful Configurations.  
+- 📫 How to reach me facebook at Caleb Etyang
 - 😄 Pronouns: mr/ sir 
 - ⚡ Fun fact: beatles also restle.
 
