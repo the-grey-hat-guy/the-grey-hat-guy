@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Caleb Etyang 
-- 👀 I’m interested in  Opensource Java Web Developmnt and Other Stuff
-- 🌱 I’m currently learning Networking 
-- 💞️ I’m looking to collaborate on Website Appllication Penetration  Testing  and Restful Configurations.  
+- 👀 I’m interested in  Opensource Java and React Web Application development.
+- 🌱 I’m currently learning  springboot 
+- 💞️ I’m looking to collaborate on Website Appllication Penetration  Testing.  
 - 📫 How to reach me facebook at Caleb Etyang
 - 😄 Pronouns: mr/ sir 
 - ⚡ Fun fact: beatles also restle.
